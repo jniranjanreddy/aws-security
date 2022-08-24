@@ -4,7 +4,7 @@ AWS Certified Security Specialist
 
  5 - domains
  
- |------------|-----------------|
+
  | Domain 1 | Incident Response |
  | Domain 2 | Logging and Monitoring |
  | Domain 3 | Infrastructure Security|
