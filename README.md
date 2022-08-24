@@ -1,8 +1,8 @@
 
  
- | Alphabets                     | Phonetics                          |
+ | AWS Security                      | Certifications                          |
 | ------------------------------- | --------------------------------------------- |
-|  a - {ei} ay  | Drop Jaw and Bring it back up Jaw com - example - gray, say, complain. |
+|  Domain 1  | Incident Response |
 |  b - {bi} bee |  Lips come together pronounce like 'BA' sound then go into the Vowel 'e' |
 |  c - {si} See | ccc  ccc consonent |
 |  d - {di} dee | Tongue up before the teeth
