@@ -9,44 +9,44 @@
    Decryption key for Mega link - SVy3plBr4DzTQEeaOgbCxw
 For Scanning:
     6) Netdiscover - https://kalilinuxtutorials.com/netdiscover-scan-live-hosts-network/
-     7) Nmap - https://nmap.org/
-     8) Zenmap - https://nmap.org/zenmap/
+    7) Nmap - https://nmap.org/
+    8) Zenmap - https://nmap.org/zenmap/
 For Vulnerability Analysis:
-     9) Nmap Scripts - https://nmap.org/book/man-nse.html
-     10) Google - https://www.google.com/
-     11) Searchsploit - https://www.exploit-db.com/searchsploit
-      12) Nessus - https://www.tenable.com/products/nessus
+    9) Nmap Scripts - https://nmap.org/book/man-nse.html
+    10) Google - https://www.google.com/
+    11) Searchsploit - https://www.exploit-db.com/searchsploit
+    12) Nessus - https://www.tenable.com/products/nessus
  For Python Coding Project #1 - Portscanner:
     13) Our Own Portscanner - https://mega.nz/folder/sMoUmTDI#SVy3plBr4DzTQEeaOgbCxw
 For Exploitation & Gaining Access:
     14) Msfconsole - https://www.offensive-security.com/metasploit-unleashed/msfconsole/
-     15) Routersploit - https://github.com/threat9/routersploit
+    15) Routersploit - https://github.com/threat9/routersploit
 For Gaining Access(Viruses,Trojans,Payloads..):
     16) Msfvenom - https://www.offensive-security.com/metasploit-unleashed/msfvenom/
     17) Veil - https://github.com/Veil-Framework/Veil-Evasion
-   18) TheFatRat - https://github.com/Screetsec/TheFatRat
-   19) Hexeditor - https://itsfoss.com/hex-editors-linux/
+    18) TheFatRat - https://github.com/Screetsec/TheFatRat
+    19) Hexeditor - https://itsfoss.com/hex-editors-linux/
 For Python Coding Project #2:
-      20) Our Own Backdoor - - https://mega.nz/folder/sMoUmTDI#SVy3plBr4DzTQEeaOgbCxw
-     21) Our Own Server - - https://mega.nz/folder/sMoUmTDI#SVy3plBr4DzTQEeaOgbCxw
+    20) Our Own Backdoor - - https://mega.nz/folder/sMoUmTDI#SVy3plBr4DzTQEeaOgbCxw
+    21) Our Own Server - - https://mega.nz/folder/sMoUmTDI#SVy3plBr4DzTQEeaOgbCxw
 
 For Website Application Penetration Testing:
     22) Dirb - https://tools.kali.org/web-applications/dirb
-   23) Burpsuite - https://portswigger.net/burp
-   24) Hydra - https://tools.kali.org/password-attacks/hydra
-   25) DVWA - https://www.cyberpunk.rs/dvwa-damn-vulnerable-web-application
+    23) Burpsuite - https://portswigger.net/burp
+    24) Hydra - https://tools.kali.org/password-attacks/hydra
+    25) DVWA - https://www.cyberpunk.rs/dvwa-damn-vulnerable-web-application
 For Python Coding Project #3 - Bruteforcer, Directory Discovery:
     26) Our Own Bruteforcer - https://mega.nz/folder/sMoUmTDI#SVy3plBr4DzTQEeaOgbCxw
-     27) Our Own Directory Discover Program - https://mega.nz/folder/sMoUmTDI#SVy3plBr4DzTQEeaOgbCxw
+    27) Our Own Directory Discover Program - https://mega.nz/folder/sMoUmTDI#SVy3plBr4DzTQEeaOgbCxw
 For Man In The Middle - MITM:
     28) Bettercap - https://www.bettercap.org/
-     29) Ettercap - https://www.ettercap-project.org/
-   30) Scapy - https://scapy.net/
+    29) Ettercap - https://www.ettercap-project.org/
+    30) Scapy - https://scapy.net/
 For Wireless Access Point Cracking:
     31) aircrack-ng - https://www.aircrack-ng.org/
-     32) airodump-ng - https://www.aircrack-ng.org/doku.php?id=airodump-ng
-     33) aireplay-ng - https://www.aircrack-ng.org/doku.php?id=aireplay-ng
-     34) Hashcat - https://hashcat.net/hashcat/
+    32) airodump-ng - https://www.aircrack-ng.org/doku.php?id=airodump-ng
+    33) aireplay-ng - https://www.aircrack-ng.org/doku.php?id=aireplay-ng
+    34) Hashcat - https://hashcat.net/hashcat/
 References For Certain Lectures:
   1) Downloading Virtual Box & Kali Linux Lecture:
      VBox Download - https://www.virtualbox.org/
